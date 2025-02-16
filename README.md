@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+My plan for improving this webpage would be to add images of the menu items for a visual reference. I would also like to implement an online ordering system so students can order their drinks/food on the go between classes.
