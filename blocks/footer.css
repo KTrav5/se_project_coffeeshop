@@ -20,6 +20,7 @@
 .footer__column-heading {
   margin: 0 0 20px;
   font-weight: bold;
+  font-size: inherit;
 }
 
 .footer__list {
